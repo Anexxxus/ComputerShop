@@ -37,6 +37,7 @@ pip insall psycopg2, pyqt5, qt-material, python-docx, telebot.
 Далее создаете телеграм бота через https://t.me/BotFather , копируете api и вставляете в код, так же меняете данные к подключения базе данных под себя
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Program images
+
 ![изображение](https://github.com/Anexxxus/ComputerShop/assets/68741206/9a10fb3c-b2ef-4236-822c-45aa8dc30378)
 ![изображение](https://github.com/Anexxxus/ComputerShop/assets/68741206/0df8f728-785f-4330-8ce6-c8a31ad9cb4a)
 ![изображение](https://github.com/Anexxxus/ComputerShop/assets/68741206/824ea1d3-12de-4e8a-ac4d-3750998f8bbf)
